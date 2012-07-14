@@ -13,7 +13,7 @@ AppleScript in Sparrow.
 
 The `.alfredextension` file is available for download:
 
-- [v1.0a]()
+- [v1.0a](https://github.com/downloads/davidbeckingsale/SparrowToOmniFocus.alfredextension/SparrowToOmniFocus.alfredextension)
 
 Any feature requests or bug reports, please create an issue on the GitHub page.
 
